@@ -1,0 +1,1 @@
+setup /configure configuration-2019.xml

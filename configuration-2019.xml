@@ -1,0 +1,19 @@
+<Configuration ID="292fb9cd-bcea-4597-a7dc-5645e72a45e8">
+  <Add OfficeClientEdition="64" Channel="PerpetualVL2019">
+    <Product ID="ProPlus2019Volume">
+      <Language ID="zh-cn" />
+      <ExcludeApp ID="Access" />
+      <ExcludeApp ID="Groove" />
+      <ExcludeApp ID="Lync" />
+      <ExcludeApp ID="OneDrive" />
+      <ExcludeApp ID="OneNote" />
+      <ExcludeApp ID="Publisher" />
+    </Product>
+    <Product ID="VisioPro2019Volume">
+      <Language ID="zh-cn" />
+    </Product>
+    <Product ID="ProjectPro2019Volume">
+      <Language ID="zh-cn" />
+    </Product>
+  </Add>
+</Configuration>
